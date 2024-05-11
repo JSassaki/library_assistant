@@ -22,3 +22,5 @@ Este projetinho foi inspirado pela necessidade real de uma amiga bibliotecária,
    *   Por exemplo: Heartstopper, um livro sobre romance adolescente, que trata temas como família e identidade. Um dos livros recomendados foi Anne Frank, não está completamente errado, mas a "vibe" é completamente diferente.
 *   Para idades menores, o modelo parece ter um viés em recomendar Ziraldo e O Pequeno Príncipe. São excelentes recomendações, mas fica repetitivo.
 *   Por algum motivo, a integração com o gradio só parece funcionar se estiver em modo debug.
+
+![exemplo da tela da ferramenta]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/JSassaki/library_assistant/main/screen.png))
