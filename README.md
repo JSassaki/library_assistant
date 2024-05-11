@@ -23,4 +23,4 @@ Este projetinho foi inspirado pela necessidade real de uma amiga bibliotecária,
 *   Para idades menores, o modelo parece ter um viés em recomendar Ziraldo e O Pequeno Príncipe. São excelentes recomendações, mas fica repetitivo.
 *   Por algum motivo, a integração com o gradio só parece funcionar se estiver em modo debug.
 
-![exemplo da tela da ferramenta]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/JSassaki/library_assistant/main/screen.png))
+![exemplo da tela da ferramenta](https://raw.githubusercontent.com/JSassaki/library_assistant/main/screen.png)
