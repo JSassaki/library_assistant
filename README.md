@@ -1,5 +1,4 @@
 # Assistente de biblioteca
-**Autor:** Jorge Sassaki | [Linkedin](www.linkedin.com/in/jsassaki) | [Github](https://github.com/JSassaki)
 
 O **objetivo** deste projeto é simples, **ajudar a recomendar livros para estudantes** baseado na entrada de um título de livro.
 
@@ -10,6 +9,8 @@ Em seguida, dá a faixa etária mínima recomendada para o livro. Após isso, re
 2.   Caso o estudante tenha gostado de um livro e queira outros similares, provê alternativas também alternativas para ele.
 
 Este projetinho foi inspirado pela necessidade real de uma amiga bibliotecária, que sempre fica na dúvida se alguma obra é adequada para a idade dos estudantes curiosos.
+
+![exemplo da tela da ferramenta](https://raw.githubusercontent.com/JSassaki/library_assistant/main/screen.png)
 
 **To-dos:**
 *   **Evitar que o modelo retorne o mesmo livro múltiplas vezes.** Por vezes, o modelo repete o livro em línguas diferentes, ou recomenda o mesmo livro para duas faixas etárias.
@@ -23,4 +24,4 @@ Este projetinho foi inspirado pela necessidade real de uma amiga bibliotecária,
 *   Para idades menores, o modelo parece ter um viés em recomendar Ziraldo e O Pequeno Príncipe. São excelentes recomendações, mas fica repetitivo.
 *   Por algum motivo, a integração com o gradio só parece funcionar se estiver em modo debug.
 
-![exemplo da tela da ferramenta](https://raw.githubusercontent.com/JSassaki/library_assistant/main/screen.png)
+
